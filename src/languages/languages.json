@@ -1,0 +1,96 @@
+[
+    {
+        "title": {
+            "it": "Villa con piscina in Sardegna",
+            "en": "Villa for vacation in Sardinia",
+            "de": "Villen für Partys in Sardinia"
+        },
+        "subtitle1": {
+            "it": "La location perfetta per il tuo evento",
+            "en": "The perfect location for your event",
+            "de": "Der perfekte Ort für Ihr Event"
+        },
+        "paragraph1": {
+            "it": "La Villa Armani a Sassari è il luogo ideale per celebrare i tuoi eventi più importanti. Matrimoni, feste di compleanno, eventi aziendali, non importa quale sia l'occasione, la Villa Armani saprà regalarti un'esperienza indimenticabile. Con la sua posizione privilegiata, immersa nel verde e circondata dalla natura, la Villa Armani offre un'atmosfera unica e romantica per il tuo matrimonio. Inoltre, la Villa è dotata di ampi spazi interni ed esterni, perfetti per ospitare qualsiasi tipo di evento, dalle cene intime alle grandi feste. Gli arredi eleganti e raffinati, uniti al servizio eccellente del nostro personale, faranno in modo che tu e i tuoi ospiti vi sentiate coccolati e a proprio agio. Non aspettare oltre, prenota la Villa Armani per il tuo prossimo evento e preparati ad essere stupito dalla bellezza e dalla eleganza di questa location unica.",
+            "en": "The Villa Armani in Sassari is the perfect place to celebrate your most important events. Weddings, birthday parties, corporate events, no matter the occasion, Villa Armani will give you an unforgettable experience. With its privileged location, surrounded by nature and green, Villa Armani offers a unique and romantic atmosphere for your wedding. Furthermore, the Villa has large indoor and outdoor spaces, perfect for hosting any type of event, from intimate dinners to large parties. The elegant and refined furnishings, combined with the excellent service of our staff, will make sure you and your guests feel pampered and comfortable. Don't wait any longer, book Villa Armani for your next event and prepare to be amazed by the beauty and elegance of this unique location.",
+            "de": "Die Villa Armani in Sassari ist der perfekte Ort, um Ihre wichtigsten Veranstaltungen zu feiern. Hochzeiten, Geburtstagsfeiern, Firmenevents, egal welcher Anlass, die Villa Armani wird Ihnen ein unvergessliches Erlebnis bieten. Mit ihrer privilegierten Lage, umgeben von Natur und Grün, bietet die Villa Armani eine einzigartige und romantische Atmosphäre für Ihre Hochzeit. Darüber hinaus verfügt die Villa über große Innen- und Außenräume, die perfekt für jede Art von Veranstaltung geeignet sind, von intimen Abendessen bis hin zu großen Partys. Die eleganten und raffinierten Einrichtungen, kombiniert mit dem hervorragenden Service unseres Personals, sorgen dafür, dass Sie und Ihre Gäste sich verwöhnt und wohl fühlen. Warten Sie nicht länger, buchen Sie die Villa Armani für Ihre nächste Veranstaltung und bereiten Sie sich darauf vor, von der Schönheit und Eleganz dieser"
+        },
+        "paragraph2": {
+            "it": "Rendi speciale i tuoi momenti con eleganza in questo posto magico!",
+            "en": "Make your moments special with elegance in this magical place!",
+            "de": "Machen Sie Ihre Momente besonders elegant in diesem magischen Ort!"
+        },
+        "subtitle2": {
+            "it": "Un'atmosfera adatta ad ogni occasione",
+            "en": "An atmosphere suitable for every occasion",
+            "de": "Eine Atmosphäre für jeden Anlass geeignet"
+        },
+        "paragraph3": {
+            "it": "La Villa Armani è la location perfetta per celebrare i tuoi eventi più importanti. Con una capienza massima di 200 invitati, la Villa Armani è in grado di ospitare eventi di ogni tipo. La location, immersa nel verde e circondata dalla natura, offre un'atmosfera unica e romantica per il tuo matrimonio, compleanno, eventi aziendali e non solo. La Villa Armani è dotata di ampi spazi interni ed esterni, perfetta sia per cene intime sia per grandi feste. Gli arredi eleganti e raffinati, uniti al servizio eccellente del nostro personale, faranno in modo che tu e i tuoi ospiti vi sentiate coccolati e a proprio agio. La Villa Armani si trova in collina, con una posizione privilegiata.",
+            "en": "Villa Armani is the perfect location to celebrate your most important events. With a maximum capacity of 200 guests, Villa Armani is able to host events of all types. The location, surrounded by nature, offers a unique and romantic atmosphere for your wedding, birthday, corporate events and more. Villa Armani features ample indoor and outdoor spaces, perfect for intimate dinners and large parties. The elegant and refined furnishings, combined with the excellent service of our staff, will ensure that you and your guests feel pampered and comfortable. Villa Armani is located on a hill, with a privileged location.",
+            "de": "Die Villa Armani ist der perfekte Ort, um Ihre wichtigsten Ereignisse zu feiern. Mit einer maximalen Kapazität von 200 Gästen kann die Villa Armani Veranstaltungen jeder Art aufnehmen. Der Ort, mitten im Grünen und von Natur umgeben, bietet eine einzigartige und romantische Atmosphäre für Ihre Hochzeit, Geburtstag, Geschäftsevents und mehr. Die Villa Armani verfügt über große Innen- und Außenbereiche, perfekt sowohl für intime Abendessen als auch für große Partys. Die eleganten und raffinierten Einrichtungen, zusammen mit dem hervorragenden Service unseres Personals, sorgen dafür, dass Sie und Ihre Gäste sich verwöhnt und wohl fühlen. Die Villa Armani liegt auf einem Hügel mit einer privilegierten Lage"
+        },
+        "title2": {
+            "it": "Dove ci troviamo e come contattarci",
+            "en": "Where we are and how to contact us",
+            "de": "Wo wir sind und wie man uns kontaktieren kann"
+        },
+        "form": {
+            "title": {
+                "it": "Contattaci",
+                "en": "Contact us",
+                "de": "Kontaktieren Sie uns"
+            },
+            "name": {
+                "it": "Il tuo nome",
+                "en": "Your name",
+                "de": "Dein name"
+            },
+            "phone": {
+                "it": "Il tuo telefono",
+                "en": "Your phone number",
+                "de": "Dein handy"
+            },
+            "email": {
+                "it": "La tua email",
+                "en": "Your email",
+                "de": "Ihre e-mail"
+            },
+            "textarea": {
+                "it": "Il tuo messaggio",
+                "en": "Your message",
+                "de": "Deine Nachricht"
+            },
+            "button": {
+                "it": "Invia",
+                "en": "Send",
+                "de": "Senden"
+            },
+            "terms": {
+                "it": "Ho letto e accetto i",
+                "en": "I have read and accept the",
+                "de": "Ich habe gelesen und akzeptiere"
+            },
+            "terms2": {
+                "it": "Termini e Condizioni",
+                "en": "Terms and Conditions",
+                "de": "Geschäftsbedingungen"
+            },
+            "confirm_message": {
+                "it": "Messaggio consegnato, ti ricontatteremo al più presto",
+                "en": "Message delivered, we will contact you as soon as possible",
+                "de": "Nachricht zugestellt, wir werden uns so schnell wie möglich zurückmelden"
+            }
+        },
+        "terms_and_conditions": {
+            "it": "L'invio di una richiesta di prenotazione tramite il modulo di contatto sul nostro sito web non garantisce la disponibilità della camera richiesta. La conferma della prenotazione verrà inviata solo dopo la verifica della disponibilità da parte della struttura. Inviando il modulo di contatto, l'utente accetta di ricevere informazioni promozionali e di marketing dall'hotel tramite e-mail o SMS. L'utente può optare per non ricevere queste comunicazioni in qualsiasi momento seguendo le istruzioni presenti nelle e-mail o negli SMS. Le informazioni personali fornite dall'utente verranno utilizzate esclusivamente per rispondere alla richiesta di prenotazione e non verranno condivise con terze parti a meno che non sia richiesto per legge. L'hotel si riserva il diritto di rifiutare una prenotazione o di annullarla in caso di violazione dei presenti termini e condizioni o di altre politiche dell'hotel. In caso di controversie legali, le leggi dello Stato in cui si trova l'hotel saranno applicate e qualsiasi azione legale dovrà essere intrapresa presso i tribunali di tale Stato.",
+            "en": "Submitting a reservation request through the contact form on our website does not guarantee the availability of the requested room. The reservation confirmation will be sent only after the availability has been verified by the hotel. By submitting the contact form, the user agrees to receive promotional and marketing information from the hotel via email or SMS. The user can opt out of receiving these communications at any time by following the instructions in the emails or SMSs. The personal information provided by the user will be used solely to respond to the reservation request and will not be shared with third parties unless required by law. The hotel reserves the right to refuse or cancel a reservation in case of violation of these terms and conditions or other hotel policies. In case of legal disputes, the laws of the state in which the hotel is located will apply and any legal action will have to be taken in the courts of that state.",
+            "de": "Das Absenden einer Buchungsanfrage über das Kontaktformular auf unserer Website garantiert nicht die Verfügbarkeit des gewünschten Zimmers. Die Buchungsbestätigung wird erst nach der Verfügbarkeitsprüfung durch das Hotel gesendet. Durch das Absenden des Kontaktformulars stimmt der Benutzer zu, Promotions- und Marketinginformationen vom Hotel per E-Mail oder SMS zu erhalten. Der Benutzer kann jederzeit auf diese Kommunikation verzichten, indem er die Anweisungen in den E-Mails oder SMS befolgt. Die vom Benutzer bereitgestellten persönlichen Informationen werden ausschließlich zur Beantwortung der Buchungsanfrage verwendet und nicht an Dritte weitergegeben, es sei denn, dies ist gesetzlich vorgeschrieben. Das Hotel behält sich das Recht vor, eine Buchung abzulehnen oder zu stornieren, falls diese gegen diese Nutzung"
+        },
+        "default": {
+            "it": "",
+            "en": "",
+            "de": ""
+        }
+    }
+]
